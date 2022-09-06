@@ -1,0 +1,21 @@
+{
+  "name": "1_project",
+  "version": "1.0.0",
+  "description": "I am making ethereum gasprice estimator",
+  "main": "gas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "gas",
+    "price",
+    "estimator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eth-gasprice-estimator": "^1.0.0",
+    "web3": "^1.7.5"
+  }
+}
